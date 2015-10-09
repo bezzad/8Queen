@@ -121,9 +121,6 @@
   <data name="Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Black.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="FULL CHESS" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FULL CHESS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="QUEEN" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\QUEEN.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -144,5 +141,8 @@
   </data>
   <data name="About2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\About2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FULL_CHESS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FULL CHESS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -18,3 +18,12 @@ E:\Education\Visual Studio Code\Chess by 8Queen\8 Queen\8Queen\8Queen\obj\Debug\
 E:\Education\Visual Studio Code\Chess by 8Queen\8 Queen\8Queen\8Queen\obj\Debug\_8Queen.FormAbout.resources
 E:\Education\Visual Studio Code\Chess by 8Queen\8 Queen\8Queen\8Queen\obj\Debug\_8Queen.Properties.Resources.resources
 E:\Education\Visual Studio Code\Chess by 8Queen\8 Queen\8Queen\8Queen\obj\Debug\8Queen.csproj.GenerateResource.Cache
+D:\Send Projects\8Queen\src\8Queen\bin\Debug\8Queen.exe.config
+D:\Send Projects\8Queen\src\8Queen\bin\Debug\8Queen.exe
+D:\Send Projects\8Queen\src\8Queen\bin\Debug\8Queen.pdb
+D:\Send Projects\8Queen\src\8Queen\obj\Debug\_8Queen.Form1.resources
+D:\Send Projects\8Queen\src\8Queen\obj\Debug\_8Queen.FormAbout.resources
+D:\Send Projects\8Queen\src\8Queen\obj\Debug\_8Queen.Properties.Resources.resources
+D:\Send Projects\8Queen\src\8Queen\obj\Debug\8Queen.csproj.GenerateResource.Cache
+D:\Send Projects\8Queen\src\8Queen\obj\Debug\8Queen.exe
+D:\Send Projects\8Queen\src\8Queen\obj\Debug\8Queen.pdb
